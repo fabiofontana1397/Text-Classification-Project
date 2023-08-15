@@ -5,6 +5,6 @@ This project focuses on text classification using a variety of machine learning 
 
 Key Features:
 
-Utilizes various machine learning models for text classification.
-Provides an in-depth analysis of model performance differences.
-Generates a comprehensive report showcasing results and insights.
+- Utilizes various machine learning models for text classification.
+- Provides an in-depth analysis of model performance differences.
+- Generates a comprehensive report showcasing results and insights.
